@@ -1,2 +1,2 @@
-# DazhongdianpingCoSpider
+# 大众点评评论爬虫
 爬取大众点评上关于火锅店的评论数据
